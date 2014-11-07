@@ -13,6 +13,7 @@
 		E210F5261A0D6C2200BE0922 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E210F5251A0D6C2200BE0922 /* Images.xcassets */; };
 		E210F5291A0D6C2200BE0922 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E210F5271A0D6C2200BE0922 /* LaunchScreen.xib */; };
 		E210F5351A0D6C2200BE0922 /* AgeOfLaikaFlowControlTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E210F5341A0D6C2200BE0922 /* AgeOfLaikaFlowControlTests.swift */; };
+		E210F53F1A0D6D3400BE0922 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E210F53E1A0D6D3400BE0922 /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		E210F52E1A0D6C2200BE0922 /* AgeOfLaikaFlowControlTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AgeOfLaikaFlowControlTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E210F5331A0D6C2200BE0922 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E210F5341A0D6C2200BE0922 /* AgeOfLaikaFlowControlTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfLaikaFlowControlTests.swift; sourceTree = "<group>"; };
+		E210F53E1A0D6D3400BE0922 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		E210F51C1A0D6C2200BE0922 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E210F53E1A0D6D3400BE0922 /* AgeOfLaika.jpg */,
 				E210F51D1A0D6C2200BE0922 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E210F5241A0D6C2200BE0922 /* Main.storyboard in Resources */,
+				E210F53F1A0D6D3400BE0922 /* AgeOfLaika.jpg in Resources */,
 				E210F5291A0D6C2200BE0922 /* LaunchScreen.xib in Resources */,
 				E210F5261A0D6C2200BE0922 /* Images.xcassets in Resources */,
 			);
